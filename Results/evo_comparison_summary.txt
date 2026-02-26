@@ -1,0 +1,26 @@
+TRAJECTORY EVALUATION RESULTS
+========================================
+
+EndoDAC:
+  APE RMSE: 6.7105
+  APE Mean: 6.1534
+  APE Std:  2.6769
+  RPE RMSE: 0.1235
+
+AF-SfM:
+  APE RMSE: 6.4536
+  APE Mean: 5.8587
+  APE Std:  2.7063
+  RPE RMSE: 0.1223
+
+COLMAP:
+  APE RMSE: 1.8317
+  APE Mean: 1.4759
+  APE Std:  1.0848
+  RPE RMSE: 0.0193
+
+DA3-Large:
+  APE RMSE: 6.9850
+  APE Mean: 6.5300
+  APE Std:  2.4800
+  RPE RMSE: 0.2555
